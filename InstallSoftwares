@@ -1,0 +1,3 @@
+sudo yum install postgres
+sudo yum install pip
+sudo yum install awscli
